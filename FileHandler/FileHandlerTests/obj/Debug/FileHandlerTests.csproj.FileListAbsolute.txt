@@ -1,0 +1,9 @@
+C:\Users\kolya\onedrive\documents\visual studio 2015\Projects\FileHandler\FileHandlerTests\bin\Debug\FileHandlerTests.dll
+C:\Users\kolya\onedrive\documents\visual studio 2015\Projects\FileHandler\FileHandlerTests\bin\Debug\FileHandlerTests.pdb
+C:\Users\kolya\onedrive\documents\visual studio 2015\Projects\FileHandler\FileHandlerTests\bin\Debug\FileHandler.exe
+C:\Users\kolya\onedrive\documents\visual studio 2015\Projects\FileHandler\FileHandlerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\kolya\onedrive\documents\visual studio 2015\Projects\FileHandler\FileHandlerTests\bin\Debug\FileHandler.pdb
+C:\Users\kolya\onedrive\documents\visual studio 2015\Projects\FileHandler\FileHandlerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\kolya\onedrive\documents\visual studio 2015\Projects\FileHandler\FileHandlerTests\obj\Debug\FileHandlerTests.csprojResolveAssemblyReference.cache
+C:\Users\kolya\onedrive\documents\visual studio 2015\Projects\FileHandler\FileHandlerTests\obj\Debug\FileHandlerTests.dll
+C:\Users\kolya\onedrive\documents\visual studio 2015\Projects\FileHandler\FileHandlerTests\obj\Debug\FileHandlerTests.pdb
